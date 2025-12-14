@@ -49,4 +49,4 @@ Se você quiser usar este template, pode editar os seguintes arquivos:
 
 ---
 
-Desenvolvido com a ajuda de **Manus AI**.
+
